@@ -11,7 +11,7 @@ Performed ETL process in the Cloud and uploaded a DataFrame to an RDS instance. 
 
 * Created two separate Google Colab notebooks (due to large size of data) and **extracted** "Electronics" (over 3M rows) & "Kitchen" (almost 5M) datasets from the list at [review dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt), one into each notebook.
 
-* **Transformed** the dataset to fit the tables in the [schema file](../Resources/schema.sql).
+* **Transformed** the dataset to fit the tables in the [schema file](Resources/schema.sql).
 
 * **Loaded** the DataFrames that correspond to tables into an RDS instance.
 
@@ -19,7 +19,7 @@ Performed ETL process in the Cloud and uploaded a DataFrame to an RDS instance. 
 
 In Amazon's Vine program, reviewers receive free products in exchange for reviews.
 
-  ![vine01.png](../Images/vine01.png)
+  ![vine01.png](Images/vine01.png)
 
 Amazon got several policies to reduce the bias of its Vine reviews: [https://www.amazon.com/gp/vine/help?ie=UTF8](https://www.amazon.com/gp/vine/help?ie=UTF8).
 But are Vine reviews truly trustworthy? I investigated whether Vine reviews were free of bias. 
