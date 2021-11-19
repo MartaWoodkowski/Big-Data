@@ -10,7 +10,7 @@ I took "Electronics" (over 3M rows) & "Kitchen" (almost 5M) datasets from [Amazo
 **Electronics - 3,093,861 total reviews**<br>
 
 Total percentage (number) of reviews: <br>
-Vine:           0.6% (18,512) <br>
+Vine: </t>          0.6% (18,512) <br>
 Non-Vine:       99.4% (3,075,349) <br>
 
 Percentage of 5-star reviews (number):<br>    
