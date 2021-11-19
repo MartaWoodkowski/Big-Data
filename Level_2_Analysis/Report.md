@@ -1,13 +1,14 @@
-## Amazon Review Analysis - are Vine Reviews trustworthy?
---
+# Amazon Review Analysis - are Vine Reviews trustworthy?
+
 The goal of the Amazon Review Analysis was to find out wether the Vine reviews are truly trustworthy or not. <br>
 I took "Electronics" (over 3M rows) & "Kitchen" (almost 5M) datasets from [Amazon review list](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt). After extracting and transforming data, I selected the relevant columns for my analysis, these are `review_id`, `star_rating`, `helpful_votes`, `total_votes`, and `vine`. Then, I split the reviews between Vine (paid) and non-Vine (unpaid) and compared metrics between them. I looked at number of total reviews, number of 5-stars and 1-star, average ratings, standard deviation, and number of helpful votes. <br>
 
 ---
 
-### Summary of finding from the "Electronics" and "Kitchen" datasets <br>
+## Summary of finding from the "Electronics" and "Kitchen" datasets <br>
 
-<u>**Electronics - 3,093,861 total reviews**</u><br>
+**Electronics - 3,093,861 total reviews**<br>
+
 Total percentage (number) of reviews: <br>
 Vine:           0.6% (18,512) <br>
 Non-Vine:       99.4% (3,075,349) <br>
@@ -38,7 +39,7 @@ Non-Vine:       32% (991,372) <br>
 <br>
 <br>
 
-<u>Kitchen - 4,880,460 total reviews</u> <br>
+**Kitchen - 4,880,460 total reviews** <br>
 Total percentage (number) of reviews: <br>
 Vine:           0.5% (24,434) <br>
 Non-Vine:       99.5% (4,856,026) <br>
