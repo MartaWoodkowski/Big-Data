@@ -69,7 +69,7 @@ Non-Vine:       2.23 <br>
 Vine:           53% (12,965)<br>
 Non-Vine:       34% (1,690,670) <br>
 
----
+---------
 
 **Impact of paid reviews** <br>
 The number of Vine reviews in both datasets is negligible (less than 1%) compared to total number of reviews. The paid reviews (Vine program) won't influence purchasing decisions at a big scale.  <br>
@@ -86,6 +86,7 @@ The percentage of reviews classified as helpful is substantially higher for Vine
 
 **Does the data form different datasets telling us the same story?** <br>
 The short answer is yes. If you look at the above summary metrics, you can see that the numbers (percentage and averages) are very similar. Behavior is also similar. <br>
+
 
 ### Conclusion <br>
 Vine reviews are trustworthy and in addition, these reviews are more constructive than non-paid as people who get paid put more thought to their reviews. It may be helpful to the consumer to have more of these paid reviews.
