@@ -7,64 +7,65 @@ I took "Electronics" (over 3M rows) & "Kitchen" (almost 5M) datasets from [Amazo
 
 ## Summary of finding from the "Electronics" and "Kitchen" datasets <br>
 
-**Electronics - 3,093,861 total reviews**<br>
+### Electronics - 3,093,861 total reviews**<br>
 
-Total percentage (number) of reviews: <br>
-Vine: </t>          0.6% (18,512) <br>
+**Total percentage (number) of reviews:** <br>
+Vine:           0.6% (18,512) <br>
 Non-Vine:       99.4% (3,075,349) <br>
 
-Percentage of 5-star reviews (number):<br>    
+**Percentage of 5-star reviews (number):**    
 Vine:           43% (8,044)<br>
 Non-Vine:       57% (1,773,112)<br>
 
-Percentage of 1-star reviews (number):<br>    
+**Percentage of 1-star reviews (number):**    
 Vine:           1.8% (342)<br>
 Non-Vine:       11.6% (357,777) <br>
 
-Average rating (1-5):<br>
+**Average rating (1-5):**
 Vine:           4.13 <br>
 Non-Vine        4.03 <br>
 
-Standard deviation: <br>
-Vine:           0.96 <br><br>
+**Standard deviation:**
+Vine:           0.96 <br>
 Non-Vine        1.39 <br>
 
-Average number of helpful votes (per review): <br>
+**Average number of helpful votes (per review):**
 Vine:           5.82 <br>
 Non-Vine:       1.83 <br>
 
-Percentage (number) helpful votes (per review): <br>
+**Percentage (number) helpful votes (per review):**
 Vine:           61% (11,367) <br>
 Non-Vine:       32% (991,372) <br>
 <br>
 <br>
 
-**Kitchen - 4,880,460 total reviews** <br>
-Total percentage (number) of reviews: <br>
+### Kitchen - 4,880,460 total reviews <br>
+
+**Total percentage (number) of reviews:**
 Vine:           0.5% (24,434) <br>
 Non-Vine:       99.5% (4,856,026) <br>
 
-Percentage of 5-star reviews (number): <br>   
+**Percentage of 5-star reviews (number):**   
 Vine:           48% (11,753) <br>
 Non-Vine:       64% (3,116,807) <br>
 
-Percentage of 1-star reviews (number):<br>    
+**Percentage of 1-star reviews (number):**   
 Vine:           1.4% (351)<br>
 Non-Vine:       8.8% (426,954) <br>
 
-Average rating (1-5):<br>
+**Average rating (1-5):**
 Vine:           4.24<br>
 Non-Vine        4.21 <br>
 
-Standard deviation:<br>
+**Standard deviation:**
 Vine:           0.89<br>
 Non-Vine        1.28 <br>
 
-Average number of helpful votes (per review):<br>
+**Average number of helpful votes (per review):**
 Vine:           5.96<br>
 Non-Vine:       2.23 <br>
 
-Percentage (number) helpful votes (per review):<br>
+**Percentage (number) helpful votes (per review):**
 Vine:           53% (12,965)<br>
 Non-Vine:       34% (1,690,670) <br>
 
