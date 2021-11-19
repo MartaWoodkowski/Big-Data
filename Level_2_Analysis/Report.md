@@ -1,4 +1,4 @@
-# Amazon Review Analysis - are Vine Reviews trustworthy?
+# Analysis of Amazon Reviews - are Vine Reviews trustworthy?
 
 The goal of the Amazon Review Analysis was to find out wether the Vine reviews are truly trustworthy or not. <br>
 I took "Electronics" (over 3M rows) & "Kitchen" (almost 5M) datasets from [Amazon review list](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt). After extracting and transforming data, I selected the relevant columns for my analysis, these are `review_id`, `star_rating`, `helpful_votes`, `total_votes`, and `vine`. Then, I split the reviews between Vine (paid) and non-Vine (unpaid) and compared metrics between them. I looked at number of total reviews, number of 5-stars and 1-star, average ratings, standard deviation, and number of helpful votes. <br>
@@ -69,7 +69,7 @@ Non-Vine:       2.23 <br>
 Vine:           53% (12,965)<br>
 Non-Vine:       34% (1,690,670) <br>
 
----------
+---
 
 **Impact of paid reviews** <br>
 The number of Vine reviews in both datasets is negligible (less than 1%) compared to total number of reviews. The paid reviews (Vine program) won't influence purchasing decisions at a big scale.  <br>
@@ -88,5 +88,5 @@ The percentage of reviews classified as helpful is substantially higher for Vine
 The short answer is yes. If you look at the above summary metrics, you can see that the numbers (percentage and averages) are very similar. Behavior is also similar. <br>
 
 
-### Conclusion <br>
+### Conclusion <br><br>
 Vine reviews are trustworthy and in addition, these reviews are more constructive than non-paid as people who get paid put more thought to their reviews. It may be helpful to the consumer to have more of these paid reviews.
