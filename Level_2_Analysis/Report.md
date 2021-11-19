@@ -85,8 +85,8 @@ The average rating difference for Vine and non-Vine reviews is very minimal (les
 The percentage of reviews classified as helpful is substantially higher for Vine reviewers. Almost twice as many reviews are being helpful for Vine (53% in Kitchen dataset, 61% in Electronics dataset) compared to non-Vine (34%, 32% respectively). Average number of helpful feedback is also much higher for Vine reviews (5.96 in Kitchen dataset, 5.82 in Electronics dataset) compared to non-Vine (2.23, 1.39 respectively). This shows that paid reviews are written more constructively. <br>
 
 **Does the data form different datasets telling us the same story?** <br>
-The short answer is yes. If you look at the above summary metrics, you can see that the numbers (percentage and averages) are very similar. Behavior is also similar. <br>
+The short answer is yes. If you look at the above summary metrics, you can see that the numbers (percentage and averages) are very similar. Behavior is also similar. <br><br>
 
 
-### Conclusion <br><br>
+### Conclusion <br>
 Vine reviews are trustworthy and in addition, these reviews are more constructive than non-paid as people who get paid put more thought to their reviews. It may be helpful to the consumer to have more of these paid reviews.
