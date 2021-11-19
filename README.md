@@ -17,7 +17,7 @@ Performed ETL process in the Cloud and uploaded a DataFrame to an RDS instance. 
 
   ![tables_created.PNG](Images/tables_created.PNG)
 
-
+---
 ### Level 2 - Analysis of Amazon Reviews
 
 In Amazon's Vine program, reviewers receive free products in exchange for reviews.
